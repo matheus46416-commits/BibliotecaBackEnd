@@ -60,5 +60,4 @@ public class EmprestimoController {
         emprestimoService.deletarPorId(id);
     }
 
-
 }
